@@ -21,4 +21,8 @@ public class QueueArrayDriveer_2511531012 {
 		System.out.println("Tampilan Queue setelah satu Data dihapus");
 		queue_1012.display_1012();
 	}
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> branch 'master' of https://github.com/MuhammadAufaRafiki/PrakSD2026_B_2511531012.git
