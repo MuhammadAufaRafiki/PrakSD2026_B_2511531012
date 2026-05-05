@@ -55,7 +55,7 @@ public class QueueArray_2511531012 {
 			return;
 		}
 		
-		for (i= front_1012; i<= rear_1012; i++) {
+		for (i= front_1012; i< rear_1012; i++) {
 			System.out.printf("%d <-- ",array[i]);
 		}
 		return;

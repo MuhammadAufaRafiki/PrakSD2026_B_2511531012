@@ -52,3 +52,4 @@ public class DaftarKata_2511531012 {
 		return data.toString();
 	}
 }
+

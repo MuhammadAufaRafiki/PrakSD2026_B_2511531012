@@ -57,7 +57,7 @@ public class SiswaStack_2511531012 {
 		
 		System.out.println("Siswa teratas "+ studentStack.peek());
 		System.out.println("mengeluarkan siswa teratas dari stack: "+ studentStack.pop());
-		System.out.println("daftar siswa setekah di pop :");
+		System.out.println("daftar siswa setelah di pop :");
 		studentStack.tampilkanSiswa_2511531012();
 		
 		
